@@ -1,1 +1,19 @@
-this is 포르코로소프레스 홈페이지소스입니다.
+여기는 포르코로소프레스 홈페이지소스입니다.
+
+sedotpress fork로 작성중입니다.
+
+# Sedotpress
+The new lightweight and low-resources blogging platform written in PHP. It is single-file Flat-file blogging engine. No database required! All data saved in JSON format.
+
+## Features:
+* Posts & comments saved in JSON format
+* Lightweight & Low-Resource
+* Portable
+* URL Rewriting
+* Built-In Comment System + Gravatar
+* Auto Generate sitemap.xml & rss.xml
+* etc ...
+
+## Downloads:
+https://github.com/sukualam/sedotpress/archive/master.zip
+
